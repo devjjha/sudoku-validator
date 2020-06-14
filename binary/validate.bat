@@ -1,0 +1,1 @@
+java -jar sudoku-validator.jar puzzleName.txt
